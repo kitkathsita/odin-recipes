@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    background-color: aqua;
+    font-family: monospace;
+}
+
+#titulo{
+    font-size: 65px;
+    color: tomato;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 35px;
+    color: cornflowerblue;
+}
+
+li{
+    font-size: 20px;
+    list-style-position: inside;
+    color: black;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    color: teal;
+}
+
+.nota{
+    background-color: azure;
+}
+
+ol{
+    color: blueviolet;
+}
+
+h3{
+    font-size: 25px;
+    background-color: lightgreen;
+}

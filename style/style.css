@@ -1,0 +1,43 @@
+*{
+    background-color: aqua;
+    text-align: center;
+}
+
+.link{
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+}
+
+img{
+    width: 600px;
+    height: auto;
+}
+
+.carbonara{
+    color: palevioletred;
+}
+
+.marquesa{
+    color: deeppink;
+}
+
+.crepes{
+    color: violet;
+}
+
+.linkk{
+    color: yellowgreen;
+}
+
+#titulo{
+    color: magenta;
+    font-size: 55px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.subtitulo{
+    color: darkviolet;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
